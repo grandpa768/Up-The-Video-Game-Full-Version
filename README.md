@@ -242,4 +242,4 @@ This repository serves as the official landing page for Up The Video Game. The s
 **Get the most recent version of Up The Video Game today!**
 
 ---
-**Last updated:** 2026-09-15 10:54:04 UTC
+**Last updated:** 2026-09-15 15:25:13 UTC
